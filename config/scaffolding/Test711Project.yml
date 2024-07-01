@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Test711Project
+  gitServerName: dima
+  gitUrl: https://github.com/deemashlayer/Test711Project
+  gitUsername: deemashlayer
+  gitBranch: main
